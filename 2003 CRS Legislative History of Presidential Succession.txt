@@ -1,0 +1,146 @@
+Fordham Law School
+FLASH: The Fordham Law Archive of Scholarship and History
+Congressional Materials	Twenty-Fifth Amendment Archive
+3-25-2003
+Presidential and Vice Presidential Succession:
+Overview and Current Legislation
+Thomas H. Neale
+Congressional Research Service. Library of Congress
+Government and Finance Division. Library of Congress
+Follow this and additional works at: http://ir.lawnet.fordham.edu/
+twentyfifth_amendment_congressional_materials
+Part of the Law Commons 
+Recommended Citation
+Neale, Thomas H.; Congressional Research Service. Library of Congress; and Government and Finance Division. Library of Congress, "Presidential and Vice Presidential Succession: Overview and Current Legislation" (2003). Congressional Materials. 20. http://ir.lawnet.fordham.edu/twentyfifth_amendment_congressional_materials/20
+This Book is brought to you for free and open access by the Twenty-Fifth Amendment Archive at FLASH: The Fordham Law Archive of Scholarship and History. It has been accepted for inclusion in Congressional Materials by an authorized administrator of FLASH: The Fordham Law Archive of Scholarship and History. For more information, please contact tmelnick@law.fordham.edu.
+Order Code RL31761
+Report for Congress
+Received through the CRS Web
+Presidential and Vice Presidential
+Succession: Overview
+and Current Legislation
+Updated March 25, 2003
+Thomas H. Neale
+Government and Finance Division
+Congressional Research Service ˜ The Library of Congress
+Presidential and Vice Presidential Succession:
+Overview and Current Legislation
+Summary
+Whenever the office of President of the United States becomes vacant due to “removal ... death or resignation” of the chief executive, the Constitution provides that “the Vice President shall become President.” When the office of Vice President becomes vacant for any reason, the President nominates a successor, who must be confirmed by a majority vote of both houses of Congress. If both of these offices are vacant simultaneously, then, under the Succession Act of 1947, the Speaker of the House of Representatives becomes President, after resigning from the House and as Speaker. If the speakership is also vacant, then the President Pro Tempore of the Senate becomes President, after resigning from the Senate and as President Pro Tempore. If both of these offices are vacant, or if the incumbents fail to qualify for any reason, then the cabinet officers are eligible to succeed, in the order in which their departments were created (see Table 3). In every case, a potential successor must be duly sworn in his or her previous office, and must meet other constitutional requirements for the presidency, i.e., be at least 35 years of age, a “natural born citizen,” and for 14 years, a “resident within the United States.” Succession-related provisions are derived from the Constitution, statutory law, and political precedents of the past two centuries.
+Since 1789, Vice Presidents have succeeded to the presidency on nine occasions, eight times due to the death of the incumbent, and once due to resignation (see Table 1). The vice presidency has become vacant on 18 occasions since 1789. Nine of these occurred when the Vice President succeeded to the presidency; seven resulted from the death of the incumbent; and two were due to resignation (see Table 2).
+Newly created cabinet positions are incorporated in the line of succession by law when new departments are established. Current legislative proposals include S. 148, introduced by Senator DeWine, and H.R. 1354, introduced by Representative Tom Davis, both of which are pending before the 108th Congress. These bills would include the Secretary of Homeland Security in the line of succession, but diverge from tradition by making the secretary eighth in line of succession, following the Attorney General, rather than inserting the office at the end of the current succession list.
+For additional related information, please consult CRS Report RS20827, Presidential and Vice Presidential Terms and Tenure, by Thomas H. Neale, and CRS Report RS 20260, Presidential Disability: An Overview, by Thomas H. Neale.
+This report traces the evolution of succession procedures and reviews contemporary practices and pending legislation. It will be updated as events warrant.
+Contents
+Constitutional Provisions and the Succession Act of 1792 	 1
+Presidential Succession in 1841: Setting a Precedent 	2
+The Succession Act of 1886 and the 20th Amendment (1933)	2
+The Presidential Succession Act of 1947	3
+The 25th Amendment and Current Procedures 	3
+Current Legislation 	4
+List of Tables
+Table 1. Presidential Successions by Vice Presidents 	7
+Table 2. Vice Presidential Successions Under the 25th Amendment 	7
+Table 3. The Order of Presidential Succession
+(under the Succession Act of 1947) 	 8
+Presidential and Vice Presidential
+Succession: Overview and
+Current Legislation
+Constitutional Provisions and the Succession Act of 1792
+Article II of the Constitution, as originally adopted, provided the most basic building block of succession procedures, stating that:
+In Case of the Removal of the President from Office, or of his Death, Resignation or Inability to discharge the Powers and Duties of the said Office, the Same shall devolve on the Vice President, and the Congress may by Law provide for the Case of Removal, Death, Resignation or Inability, both of the President and Vice President, declaring what Officer shall then act as President, and such Officer shall act accordingly until the Disability be removed, or a President shall be elected.1
+This language evolved during the Constitutional Convention of 1787. The two most important early drafts of the Constitution neither provided for a Vice President nor considered succession to the presidency, and it was only late in the convention proceedings that the office of Vice President emerged and the language quoted above was adopted.2 While the need for a Vice President was debated during the ratification process, the question of succession received little attention, meriting only one reference in the supporting Federalist papers: “the Vice-President may occasionally become a substitute for the President, in the supreme Executive magistracy.”3
+The Second Congress (1791-1793) exercised its constitutional authority to provide for presidential vacancy or inability in the Succession Act of 1792 (1 Stat. 240). After examining several options, including designating the Secretary of State or Chief Justice as successor, Congress settled on the President Pro Tempore of the Senate and the Speaker of the House of Representatives, in that order. These officials were to succeed if the presidency and vice presidency were both vacant. They would serve only temporarily, however, since the Act also provided for a
+1 U.S. Constitution. Article II, Section 1, clause 6. This text was later changed and clarified by Section 1 of the 25th Amendment.
+2 John D. Feerick, From Failing Hands: The Story of Presidential Succession (New York: Fordham University Press, 1965), pp. 42-43.
+3 Alexander Hamilton, “Federalist No. 68,” in Alexander Hamilton, James Madison, and John Jay, The Federalist, Benjamin F. Wright, ed. (Cambridge, MA: Belknap Press of Harvard University Press, 1966), p. 433.
+CRS-2
+special election to fill the vacancy, unless it occurred late in the last full year of the incumbent’s term of office.4 This and both later succession acts required that designees meet the constitutional requirements of age, residence, and natural born citizenship.
+Presidential Succession in 1841: Setting a Precedent
+The first succession of a Vice President occurred when President William Henry Harrison died in 1841. Vice President John Tyler’s succession set an important precedent and settled a constitutional question. Debate at the Constitutional Convention, and subsequent writing on succession, indicated that the founders intended the Vice President to serve as acting President in the event of a presidential vacancy or disability, assuming “the powers and duties” of the office, but not actually becoming President.5 Tyler’s status was widely debated at the time, but the Vice President decided to take the presidential oath, and considered himself to have succeeded to Harrison’s office, as well as to his powers and duties. After some discussion of the question, Congress implicitly ratified Tyler’s decision by referring to him as “the President [emphasis added] of the United States.”6 This action set a precedent for succession that has prevailed ever since, and was later formally incorporated into the Constitution by Section 1 the 25th Amendment.
+The Succession Act of 1886 and the 20th Amendment (1933)
+President James A. Garfield’s death led to a major change in succession law. Shot by an assassin on July 2, 1881, the President struggled to survive for 79 days before succumbing to his wound on September 19. Vice President Chester A. Arthur took office without incident, but the offices of Speaker and President Pro Tempore were vacant throughout the President’s illness, due to the fact that the House elected in 1880 had yet to convene, and the Senate had been unable to elect a President Pro Tempore because of partisan strife.7 Congress subsequently passed the Succession Act of 1886 (24 Stat. 1) in order to insure the line of succession and guarantee that potential successors would be of the same party as the deceased incumbent. This legislation transferred succession after the Vice President from the President Pro Tempore and the Speaker to the cabinet officers in the chronological order in which their departments were created, provided they had been duly confirmed by the Senate
+4 It should be recalled that during this period presidential terms ended on March 4 of the year after the presidential election. Also, the Act provided only for election of the President, since electors cast two votes for President during this period (prior to ratification of the 12th Amendment, which specified separate electoral votes for President and Vice President), with the electoral vote runner-up elected Vice President.
+5 Ruth Silva, Presidential Succession (New York: Greenwood Press, 1968 (c. 1951)), p. 10; Feerick, From Failing Hands, p. 56.
+6 Congressional Globe, vol. 10, May 31, June 1, 1841, pp. 3-5.
+7 In accord with contemporary practice, the House of Representatives elected in November, 1880, did not convene in the 47th Congress until December 5, 1881. As was also customary, the Senate had convened on March 10, but primarily to consider President Garfield’s cabinet and other nominations.
+CRS-3
+and were not under impeachment by the House. Further, it eliminated the requirement for a special election, thus ensuring that any future successor would serve the full balance of the presidential term. This act governed succession until 1947.
+Section 3 of the 20th Amendment, ratified in 1933, clarified one detail of presidential succession procedure by declaring that, if a President-elect dies before being inaugurated, the Vice President-elect becomes President-elect and is subsequently inaugurated. This, however, left unresolved the point at which a person is considered to be President-elect: does it occur after the electors vote in December of presidential election years, or after Congress certifies the results the following January.8
+The Presidential Succession Act of 1947
+In 1945, Vice President Harry S Truman succeeded as President on the death of Franklin D. Roosevelt. Later that year, he proposed that Congress revise the order of succession, placing the Speaker of the House and the President Pro Tempore of the Senate in line behind the Vice President and ahead of the cabinet. Truman argued that it was more appropriate and democratic to have popularly elected officials first in line to succeed, rather than appointed cabinet officers. Although Truman’s proposal also provided for special elections to fill simultaneous vacancies in the presidency and vice presidency, Congress passed only its succession aspects in the Presidential Succession Act of 1947 (61 Stat. 380). Under the Act, if both the presidency and vice presidency are vacant, the Speaker succeeds (after resigning the speakership and his House seat). If there is no Speaker, or if he does not qualify, the President Pro Tempore succeeds, under the same requirements. If there is neither a Speaker nor President Pro Tempore, or if neither qualifies, then the cabinet officers succeed, under the same conditions as applied in the 1886 act (see Table 3). The Presidential Succession Act of 1947 has been regularly amended to incorporate new cabinet-level departments into the line of succession, and remains currently in force.
+The 25th Amendment and Current Procedures
+The 1963 assassination of President John F. Kennedy helped set events in motion that culminated in the 25th Amendment to the Constitution, a key element in current succession procedures. Although Vice President Lyndon B. Johnson succeeded without incident after Kennedy’s death, it was noted at the time that Johnson’s potential immediate successor, House Speaker John W. McCormack, was 71 years old, and Senate President Pro Tempore Carl T. Hayden was 86 and visibly frail. In addition, many observers believed that a vice presidential vacancy for any length of time constituted a dangerous gap in the nation’s leadership during the Cold
+8 For further discussion of this question, please consult CRS Report 30804, The Electoral College: An Overview and Analysis of Reform Proposals, by L. Paige Whitaker and Thomas H. Neale, pp. 11-12.
+CRS-4
+War, an era of international tensions and the threat of nuclear war.9 It was widely argued that there should be a qualified Vice President ready to succeed to the presidency at all times. The 25th Amendment, providing for vice presidential vacancies and presidential disability, was proposed by the 89th Congress in 1965 and approved by the requisite number of states in 1967.10
+The 25th Amendment is the cornerstone of contemporary succession procedures. Section 1 of the amendment formalized traditional practice by declaring that, “the Vice President shall become President” if the President is removed from office, dies, or resigns. Section 2 empowered the President to nominate a Vice President whenever that office is vacant. This nomination must be approved by a simple majority of Members present and voting in both houses of Congress. Sections 3 and 4 established procedures for instances of presidential disability.11
+Any Vice President who succeeds to the presidency serves the remainder of the term. His or her constitutional eligibility to serve additional terms is governed by the 22nd Amendment, which provides term limits for the presidency. Under the amendment, if the Vice President succeeds after more than two full years of the term have expired, he or she is eligible to be elected to two additional terms as President. If, however, the Vice President succeeds after fewer than two full years of the term have expired, the constitutional eligibility is limited to election to one additional term.
+Section 2 of the 25th Amendment has been invoked twice since its ratification: in 1973, when Representative Gerald R. Ford was nominated and approved to succeed Vice President Spiro T. Agnew, who had resigned, and again in 1974, when the former Governor of New York, Nelson A. Rockefeller, was nominated and approved to succeed Ford, who had become President when President Richard M. Nixon resigned (see Table 2). While the 25th Amendment did not supplant the order of succession established by the Presidential Succession Act of 1947, its provision for filling vice presidential vacancies renders recourse to the Speaker, the President Pro Tempore, and the cabinet unlikely, except in the event of an unprecedented national catastrophe.
+Current Legislation
+Secretaries of newly-created cabinet-level departments are not automatically included in the order of succession. This is normally accomplished by an appropriate provision in the legislation authorizing the new department.12 In some instances, however, the secretary’s inclusion is omitted from the authorizing act, but is
+9 Following President Kennedy’s death, the vice presidency remained vacant for 14 months and two days, until Vice President Hubert H. Humphrey was sworn in on January 20, 1965.
+10 For additional information on presidential tenure, see CRS Report RS20827, Presidential and Vice Presidential Terms and Tenure, by Thomas H. Neale.
+11 For additional information on presidential disability, see CRS Report RS20260, Presidential Disability: An Overview, by Thomas H. Neale
+12 See 3 U.S.C. 19 “Amendments” for examples.
+CRS-5
+accomplished later in “perfecting” legislation. This occurred in the Act establishing the Department of Homeland Security (DHS) in the 107th Congress (P.L. 107-296), which did not incorporate the secretary of the new department in the line of presidential succession.
+Legislation to include the office of Secretary of Homeland Security in the line of presidential succession is pending in the 108th Congress. S. 148 was introduced on January 13, 2003, by Senator DeWine, and a companion bill, H.R. 1354, was introduced in the House on March 19, 2003, by Representative Tom Davis. Both bills depart from tradition by proposing to place the Secretary of Homeland Security in the line of succession directly following the Attorney General. In this position, the secretary would be eighth in line to succeed the President, rather than 18th, at the end of the order, following the Secretary of Veterans Affairs. This realignment would have historical significance, as the four offices that would immediately precede the Secretary of Homeland Security constitute the original cabinet, as established between 1789 and 1792 during the presidency of George Washington, and are sometimes referred to as the “big four.”13
+This departure from tradition derives from heightened concern over the question of continuity of government as the United States intensifies its struggle against terrorist organizations and rogue states in an era of weapons of mass destruction.14 It is argued that the proposed placement of the DHS secretary will have at least two advantages: first, the Department of Homeland Security will be one of the largest and most important executive departments, with many responsibilities directly affecting the security and preparedness of the nation. Both its size and crucial role are cited as arguments for placing the Secretary of DHS high in the order of succession. Second, the Secretary of Homeland Security will have critically important responsibilities in these areas, and may be expected to possess the relevant knowledge and expertise that arguably justify placing this official ahead of 10 secretaries of more senior departments, particularly in the event an unprecedented disaster were to befall the leadership of the executive branch.15
+On the other hand, the bill might be open to criticism on the argument that it is an exercise in undue alarmism, and that placing the Secretary of Homeland Security
+13 They are, in order of departmental seniority, the Secretaries of State, the Treasury, and Defense, and the Attorney General. The Secretary of Defense supplanted the Secretary of War when the Department of Defense was established in 1947. All attorneys general served in the cabinet beginning in 1792, although the Department of Justice was not established until 1870.
+14 For additional information on the issue of continuity of government, please consult CRS Report RS21089, Continuity of Government: Current Federal Arrangements and the Future, by Harold C. Relyea.
+15 Conversation with Senate Judiciary Committee staff, Feb. 24, 2003. The question of continuity of government in the executive branch is also being addressed by a nongovernmental organization, the Continuity of Government Commission, sponsored by the American Enterprise Institute of Washington, DC. The commission plans to issue a report later in 20003. For additional information on the commission and its activities, consult: [http://www.continuityofgovernment.org] .
+CRS-6
+ahead of the secretaries of more senior departments might set a questionable precedent, by seeming to elevate the office to a sort of “super cabinet” level that would arguably be inconsistent with its legal status.
+S. 148 has been read twice, and was referred to the Senate Committee on Rules and Administration, while H.R. 1354 has been referred to the House Committee on the Judiciary. At the time of this writing, neither bill has received any further action.
+CRS-7
+Table 1. Presidential Successions by Vice Presidents
+Year	President	Party*	Cause of	Successor
+			Vacancy**	
+1841	William Henry Harrison	W	1	John Tyler
+1850	Zachary Taylor	W	1	Millard Fillmore
+1865	Abraham Lincoln	R	2	Andrew Johnson
+1881	James A. Garfield	R	2	Chester A. Arthur
+1901	William McKinley	R	2	Theodore Roosevelt
+1923	Warren G. Harding	R	1	Calvin Coolidge
+1945	Franklin D. Roosevelt	D	1	Harry S Truman
+1963	John F. Kennedy	D	2	Lyndon B. Johnson
+1974	Richard M. Nixon	R	3	Gerald R. Ford
+* Party Affiliation:
+D = Democratic
+R = Republican
+W = Whig
+** Cause of Vacancy:
+1 = death by natural causes
+2 = assassination
+3 = resignation
+Table 2. Vice Presidential Successions Under the 25th
+Amendment16
+Year	Vice President	Party*	Cause**	Successor
+1973	Spiro T. Agnew	R	1	Gerald R. Ford
+1974	Gerald R. Ford	R	2	Nelson A. Rockefeller
+* Party Affiliation:	R = Republican
+** Cause of Vacancy:	1 = resignation
+2 = succession to the presidency
+16 Prior to ratification of the 25th Amendment, the vice presidency was vacant on 16 occasions. Eight resulted when the Vice President succeeded to the presidency (see Table 1). Seven resulted from the Vice President’s death: George Clinton (Democratic Republican—DR), 1812; Elbridge Gerry (DR), 1814; William R. King (D), 1853; Henry Wilson (R), 1875; Thomas A. Hendricks (D), 1885; Garret A. Hobart (R) 1899; and James S. Sherman (R), 1912. One Vice President resigned: John C. Calhoun (D), in 1832.
+CRS-8
+Table 3. The Order of Presidential Succession (under the Succession Act of 1947)
+President
+Vice President
+Speaker of the House of Representatives
+President Pro Tempore of the Senate
+Secretary of State
+Secretary of the Treasury
+Secretary of Defense
+Attorney General
+Secretary of the Interior
+Secretary of Agriculture
+Secretary of Commerce
+Secretary of Labor
+Secretary of Health and Human Services
+Secretary of Housing and Urban Development
+Secretary of Transportation
+Secretary of Energy
+Secretary of Education
+Secretary of Veterans Affairs
